@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Charmonman:wght@400;700&display=swap');
+
+
+.fachada{
+    display: flex;
+    background-color: black;
+
+}
+
+header{
+    font-family: "Chormonman", cursive;
+}
+
+.login{
+    left: 80%;
+    border-style: dashed;
+    border-color: white;
+    border-radius: 100%;
+}
