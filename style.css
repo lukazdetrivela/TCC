@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Charmonman:wght@400;700&display=swap');
+
+
+
+header {
+    font-family: "Chormonman", cursive;
+}
+
+#sidebar{
+    display: flex;
+}
+
+#close-sidebar{
+    cursor: pointer;
+}
+
+#sidebar:hover{
+    
+    background: red;
+}
