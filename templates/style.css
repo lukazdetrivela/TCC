@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Charmonman:wght@400;700&display=swap');
+
+
+
+header {
+    font-family: "Chormonman", cursive;
+}
+
+#sidebar{
+    display: flex;
+}
+
+#close-sidebar{
+    cursor: pointer;
+}
+
+#sidebar:hover{
+    
+    background: red;
+}
+
+
+
+        /*FOOTER*/
+
+        footer {
+            color: black;
+            font-family: 'Times New Roman', Times, serif;
+            font-size: small;
+            margin-top: 20%;
+            position: absolute;
+            bottom: 0;
+            left: 45%;
+        }
+
+        a {
+            
+            text-decoration: none;
+        }
